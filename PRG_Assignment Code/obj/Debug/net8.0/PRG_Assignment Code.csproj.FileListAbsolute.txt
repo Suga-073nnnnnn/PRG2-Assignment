@@ -1,0 +1,15 @@
+C:\Users\sugaw\Documents\PRG2\Assignment\PRG2_GroupAssignment_MainFile\PRG_Assignment Code\bin\Debug\net8.0\PRG_Assignment Code.exe
+C:\Users\sugaw\Documents\PRG2\Assignment\PRG2_GroupAssignment_MainFile\PRG_Assignment Code\bin\Debug\net8.0\PRG_Assignment Code.deps.json
+C:\Users\sugaw\Documents\PRG2\Assignment\PRG2_GroupAssignment_MainFile\PRG_Assignment Code\bin\Debug\net8.0\PRG_Assignment Code.runtimeconfig.json
+C:\Users\sugaw\Documents\PRG2\Assignment\PRG2_GroupAssignment_MainFile\PRG_Assignment Code\bin\Debug\net8.0\PRG_Assignment Code.dll
+C:\Users\sugaw\Documents\PRG2\Assignment\PRG2_GroupAssignment_MainFile\PRG_Assignment Code\bin\Debug\net8.0\PRG_Assignment Code.pdb
+C:\Users\sugaw\Documents\PRG2\Assignment\PRG2_GroupAssignment_MainFile\PRG_Assignment Code\obj\Debug\net8.0\PRG_Assignment Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sugaw\Documents\PRG2\Assignment\PRG2_GroupAssignment_MainFile\PRG_Assignment Code\obj\Debug\net8.0\PRG_Assignment Code.AssemblyInfoInputs.cache
+C:\Users\sugaw\Documents\PRG2\Assignment\PRG2_GroupAssignment_MainFile\PRG_Assignment Code\obj\Debug\net8.0\PRG_Assignment Code.AssemblyInfo.cs
+C:\Users\sugaw\Documents\PRG2\Assignment\PRG2_GroupAssignment_MainFile\PRG_Assignment Code\obj\Debug\net8.0\PRG_Assignment Code.csproj.CoreCompileInputs.cache
+C:\Users\sugaw\Documents\PRG2\Assignment\PRG2_GroupAssignment_MainFile\PRG_Assignment Code\obj\Debug\net8.0\PRG_Assignment Code.sourcelink.json
+C:\Users\sugaw\Documents\PRG2\Assignment\PRG2_GroupAssignment_MainFile\PRG_Assignment Code\obj\Debug\net8.0\PRG_Assignment Code.dll
+C:\Users\sugaw\Documents\PRG2\Assignment\PRG2_GroupAssignment_MainFile\PRG_Assignment Code\obj\Debug\net8.0\refint\PRG_Assignment Code.dll
+C:\Users\sugaw\Documents\PRG2\Assignment\PRG2_GroupAssignment_MainFile\PRG_Assignment Code\obj\Debug\net8.0\PRG_Assignment Code.pdb
+C:\Users\sugaw\Documents\PRG2\Assignment\PRG2_GroupAssignment_MainFile\PRG_Assignment Code\obj\Debug\net8.0\PRG_Assignment Code.genruntimeconfig.cache
+C:\Users\sugaw\Documents\PRG2\Assignment\PRG2_GroupAssignment_MainFile\PRG_Assignment Code\obj\Debug\net8.0\ref\PRG_Assignment Code.dll
